@@ -47,7 +47,7 @@ body{
 }	
 
 .navbar-dark .navbar-nav .nav-item .nav-link:hover{
-	color: white;
+	color: white; 
 	padding: 5px 15px;
 }
 
